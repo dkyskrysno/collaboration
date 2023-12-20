@@ -13,3 +13,9 @@ body {
     border: 1px solid #ccc;
     overflow: hidden;
 }
+
+.gambar-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}

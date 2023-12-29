@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.gambar-container {
+    max-width: 500px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+}
+
+.gambar-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
